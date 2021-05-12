@@ -24,7 +24,7 @@ export default function Login() {
     <div class="container login-container">
             <div class="row">
               
-              <div class=".col-md-6 login-form-1">
+              <div class="col-md-6 login-form-1">
                     <h3>Register</h3>
                     
                         <div class="form-group">
@@ -42,9 +42,7 @@ export default function Login() {
                     
                 </div>
               
-                
-                
-                <div class=".col-md-6 login-form-2">
+                <div class="col-md-6 login-form-2">
                     <div class="login-logo">
                         <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt=""/>
                     </div>
